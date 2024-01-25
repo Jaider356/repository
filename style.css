@@ -6,15 +6,3 @@
     border: 1px;
     border-color: red;
 }
-.testbox {
-
-
-margin: 12px;
-padding: 20px;
-justify-content: center;
-border: 5px;
-border-color: brown;
-display: flex;
-flex-direction: initial;
-
-}
